@@ -41,5 +41,8 @@ namespace Business.Constants
         public static string UserByUserId="Id'ye göre kullanıcı getirildi";
         public static string UserByCustomerId="Müşteri id'sine göre kullanıcı getirildi";
         public static string UserUpdated="Kullanıcı güncellendi";
+        public static string CarDeleted="Araba silindi";
+        public static string CarsByBrandId="Marka id'sine göre arabalar getirildi";
+       
     }
 }
