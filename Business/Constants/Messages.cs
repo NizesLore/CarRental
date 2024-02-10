@@ -43,6 +43,6 @@ namespace Business.Constants
         public static string UserUpdated="Kullanıcı güncellendi";
         public static string CarDeleted="Araba silindi";
         public static string CarsByBrandId="Marka id'sine göre arabalar getirildi";
-       
+       //again
     }
 }
